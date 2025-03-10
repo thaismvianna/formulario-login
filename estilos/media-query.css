@@ -8,8 +8,8 @@
     }
 
     section#login {
-        width: 90vw;
-
+        width: 80vw;
+        height: 290px;
     }
 
     section#login > div#imagem {
@@ -22,12 +22,16 @@
     section#login > div#formulario {
         float: right;
         width: 70%;
+        margin: 20px 0px;
     }
 }
 
+/* versão de telas grandes */
 @media screen and (min-width: 992px) {
     section#login {
-        width: 950px; }
+        width: 950px;
+        height: 380px;
+    }
 
     body {
         background-image: linear-gradient(to top, #f5D5E6, #1A237E);
@@ -51,6 +55,7 @@
 
     div#formulario > p {
         font-size: 1.0em;
+        margin: 20px 0px;
     }
 }
 

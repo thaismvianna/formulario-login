@@ -27,9 +27,9 @@ section#login {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+    transform: translate(-50%, -50%);
     transition: width 0.3s, height 0.3s;
     transition-timing-function: ease;
 }
@@ -61,6 +61,19 @@ form > div.campo {
     padding: 3px;
     padding-bottom: 8px;
     margin: 5px 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+div.campo > input {
+    background-color:  #e3dbf181;
+    border: none;
+    font-size: 0.9em;
+}
+
+div.campo > input:focus-within {
+    background-color: white;
 }
 
 form > input[type="submit"] {
