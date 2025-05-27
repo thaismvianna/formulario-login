@@ -36,6 +36,9 @@ Veja o formulário funcionando neste link:
 
 [https://thaismvianna.github.io/projeto-formulario/index.html](https://thaismvianna.github.io/projeto-formulario/index.html)
 
+### Sobre a responsividade e estilo
+
+Dependendo da tela que você está usando, ou quando você diminui e aumenta o tamanho da janela, o formulário não só se adapta ao tamanho, como também modifica as cores e alguns detalhes visuais. O visual muda para oferecer uma experiência diferenciada para cada tamanho de tela, mantendo o mesmo estilo e paletas de cores parecidas para garantir harmonia.
 
 ## 📌 Status
 
