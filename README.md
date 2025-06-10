@@ -34,7 +34,7 @@ Criar um formulário que se adapte bem a diferentes tamanhos de tela (mobile, ta
 
 Veja o formulário funcionando neste link:
 
-[https://thaismvianna.github.io/projeto-formulario/index.html](https://thaismvianna.github.io/projeto-formulario/index.html)
+https://thaismvianna.github.io/formulario-login/
 
 ### Sobre a responsividade e estilo
 
